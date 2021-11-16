@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React kwak branch
+          Learn React kwak branch choTest
         </a>
       </header>
     </div>
