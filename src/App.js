@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React hong add kwak
+          Learn React master
         </a>
       </header>
     </div>
